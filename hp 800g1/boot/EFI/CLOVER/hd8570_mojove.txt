@@ -1,0 +1,23 @@
+
+
+Hello, I've been working on an hackintosh for a year now and since then I had my old GeForce 8400 die so I decide to get the r7 240, I knew it wasn't support in Mac OS so I found away to get it working with no lag.
+
+ 
+
+On clover configurator goto devices->fake id then in the ati box type 0x67981002
+
+ 
+
+Next goto Graphics->inject->ATI=true
+
+Next type in FBname which is Eulemur
+
+ 
+
+If you can
+
+Enable inject ECID
+
+PATCH VIDEO BIOS
+
+video ports=3
